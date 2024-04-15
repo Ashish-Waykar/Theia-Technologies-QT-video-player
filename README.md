@@ -6,4 +6,9 @@ When paused, it should show the following image as an "overlay" on the paused vi
 The url of the logo can be found here: https://www.theiatech.in/images/logo.png`\
 
 ## video
-coming soon...
+please prefere this below vide for the code working & demonstration
+
+https://github.com/Ashish-Waykar/Theia-Technologies-QT-video-player/assets/81794601/38dbffe4-b3e0-447e-b969-832b476045be
+
+
+
